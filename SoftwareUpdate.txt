@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add Weights & Biases Docs integrations page (#7199)
