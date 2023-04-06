@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Mkdocs annotations fixes (#7600)
