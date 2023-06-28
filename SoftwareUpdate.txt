@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add missing single-line docstrings (#8362)
