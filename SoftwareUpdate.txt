@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Resize angle, count, and stage on keypoint number change (#7598)
