@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update fraction arg to employ a random selection (#8234)
