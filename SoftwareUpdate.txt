@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update Docs language dropdown height (#6927)
