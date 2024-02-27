@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Update CI.md with CI links (#8786)
