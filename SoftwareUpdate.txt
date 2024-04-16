@@ -1,1 +1,1 @@
-fix predict with class filter
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
