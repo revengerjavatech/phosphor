@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add new YOLOv8 OBB model metrics (#7379)
