@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Docs partial mdformat improvements (#7378)
