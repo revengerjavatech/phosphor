@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Hold failed upload metrics and upload with next upload metrics (#8513)
