@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Feature: Create HUB Models from CLI or Python Script (#7316)
