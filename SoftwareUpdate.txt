@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
