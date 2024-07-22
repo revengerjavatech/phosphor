@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.0.229 add model.embed() method (#7098)
